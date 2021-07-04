@@ -2,5 +2,8 @@
   "type": "module",
   "scripts": {
     "test": "node --experimental-modules --no-warnings ./tests/capitalize.test.js"
+  },
+  "devDependencies": {
+    "jest": "^27.0.6"
   }
 }
